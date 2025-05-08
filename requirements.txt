@@ -1,2 +1,2 @@
 aiogram==2.24
-python-dotenv  # If you're using environment variables for sensitive data like BOT_TOKEN
+python-dotenv
